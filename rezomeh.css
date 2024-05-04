@@ -1,0 +1,86 @@
+body {
+    background-color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#inlinee {
+    display: inline-block;
+}
+
+#chap {
+    background-color: #2a2929;
+    width: 350px;
+    margin: 20px 0 0 20px;
+    padding: 0 0 0 0;
+}
+
+
+#jeferson {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    bottom: 35px;
+    margin: 0 auto;
+}
+
+.color {
+    color: rgb(181, 143, 216);
+}
+
+.colorw {
+    color: white;
+}
+
+.colorp {
+    text-align: center;
+    background-color: rgb(181, 143, 216);
+}
+
+.information {
+    margin: -20px 0 0 20px;
+}
+
+.information1 {
+    padding-right: 20px;
+}
+
+
+#rast {
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #2a2929;
+    width: 72%;
+    margin: 25px 0 0 20px;
+    padding: 40px 0 10px 0;
+}
+
+.border1 {
+    background-color: rgb(181, 143, 216);
+    border-radius: 3px;
+    border: 8px solid rgb(181, 143, 216);
+}
+
+#rast1 {
+    background-color: #2a2929;
+    position: absolute;
+    display: block;
+    width: 72%;
+    padding: 50px 10px 50px 0;
+    margin-top: 60px;
+}
+
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(181, 143, 216) ;
+    padding: 20px;
+}
